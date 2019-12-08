@@ -20,3 +20,6 @@ What did the eastern european immagrant say to the officer who pulled them over 
 Vy did you pull me overrr officerrr, i am just russian all the time...
 
 This is another feature I added. 
+
+Why did the chicken cross the road?
+We don't really know... we didnt ask the chicken... they have their own minds and reasons..
