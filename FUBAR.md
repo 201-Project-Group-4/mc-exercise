@@ -10,3 +10,6 @@ answer: simperfi it?
 
 This is Ted and Alice's feature. 
 
+This is what Carol did on Carol's computer when working on the first feature.  
+What did the korean old man said to the stressed out student?
+A: All about Kim-Chi
